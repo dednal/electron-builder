@@ -65,7 +65,7 @@
     "sumchecker": "^3.0.0",
     "temp-file": "^3.3.4",
     "tunnel-agent": "^0.6.0",
-    "update-notifier": "^3.0.1",
+    "update-notifier": "^4.0.0",
     "yargs": "^13.3.0"
   },
   "devDependencies": {
